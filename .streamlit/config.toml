@@ -1,0 +1,14 @@
+[theme]
+primaryColor = "#104531"
+backgroundColor = "#ffffff"
+secondaryBackgroundColor = '#f9fbf8'
+textColor = "#104531"
+font = "sans serif"
+
+[client]
+showSidebarNavigation = false
+
+[server]
+runOnSave = true
+maxUploadSize = 1000
+maxMessageSize = 500
