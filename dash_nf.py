@@ -7,6 +7,11 @@ from datetime import datetime, timedelta
 from streamlit_option_menu import option_menu
 from plotly.subplots import make_subplots
 
+st.set_page_config(
+    page_title="Processo Seletivo Nova Futura",
+    layout="wide",
+)
+
 with st.sidebar:
     menu = option_menu(
         None,
