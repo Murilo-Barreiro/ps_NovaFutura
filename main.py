@@ -284,7 +284,7 @@ elif menu == "Parte III":
     st.header("Análise dos Resultados")
     st.markdown(
         """
-        **Analisando os dados**, é possível observar um **aumento significativo no volume de investimentos** no mês de **fevereiro**, com um aumento de **120%**.  
+        **1**.É possível observar que o mês com maior aportes foi em **fevereiro** , com um aumento de **120%** em relação a janeiro.  
 
         - Esse comportamento pode ser atribuído a diversos fatores, sendo um deles o **planejamento financeiro das pessoas** no início do ano, que tende a ser mais levado a sério. No começo de um novo ciclo, muitas pessoas aproveitam para organizar suas finanças, definir metas de poupança e investir recursos de forma mais estruturada.  
         - Outro fator que pode ter contribuído é a **projeção de aumento da taxa de juros**, comum no período. Quando o mercado antecipa um cenário de alta nos juros, os investimentos em renda fixa, como CDBs, LCIs ou Tesouro Direto, tornam-se mais atrativos devido à perspectiva de maior rentabilidade.  
@@ -296,19 +296,19 @@ elif menu == "Parte III":
 
     st.markdown(
         """
-        **Analisando os dados**, é possível perceber um **aumento significativo no volume de investimentos** no mês de **fevereiro**.  
+        **2. 0%** dos clinetes estão na categoria Ouro
 
-        - Esse comportamento pode estar relacionado ao **planejamento financeiro pessoal**, que costuma ser mais rigoroso no início do ano. Muitas pessoas utilizam esse período para traçar metas financeiras, como aumentar investimentos ou poupança.  
-        - Além disso, o período pode ter sido influenciado por fatores macroeconômicos, como a **projeção de alta na taxa de juros**. Quando os investidores percebem um aumento na taxa como tendência, há um movimento de realocar recursos para aplicações mais vantajosas, como renda fixa, que se tornam mais atrativas nesses cenários.  
-        - Outro ponto a considerar é o impacto de possíveis **bonificações de início de ano**, como pagamento de bônus corporativos ou rendimentos extras, que podem ter sido direcionados para investimentos.  
+        - **Nenhum cliente atende ao volume mínimo** necessário para se enquadrar na classe **Ouro**, o que evidencia uma barreira para atingir categorias premium de investimento. Isso pode estar relacionado a limitações financeiras ou à falta de incentivo para maiores aportes.  
+        - Essa análise reforça a percepção de um **poder aquisitivo limitado** por parte dos clientes, que pode estar associado a diversos fatores, como a situação econômica geral, despesas pessoais elevadas ou falta de renda disponível para investimentos.  
+        - Além disso, os **aportes realizados são pequenos**, refletindo uma postura mais conservadora e **cautela na hora de investir**. Essa atitude pode ser explicada por incertezas no mercado, falta de conhecimento financeiro ou foco em outras prioridades financeiras.  
 
-        Essa combinação de fatores, tanto comportamentais quanto econômicos, ajuda a explicar o aumento observado nesse período.
+        Essas características demonstram a importância de estratégias que **eduquem os clientes sobre oportunidades de crescimento patrimonial** e que ofereçam produtos mais acessíveis, capazes de atrair investidores com menor capacidade de aporte.
         """
     )
 
     st.markdown(
         """
-        **De todos os produtos destacados**, o **LCI (Letra de Crédito Imobiliário)** se destacou como o investimento com maior volume de aportes no período analisado, ficando muito à frente dos demais produtos.  
+        **3. De todos os produtos destacados**, o **LCI (Letra de Crédito Imobiliário)** se destacou como o investimento com maior volume de aportes no período analisado..  
 
         - Esse comportamento pode ser atribuído a diversos fatores, sendo o principal o **aumento das taxas oferecidas por esse ativo**, que se tornou mais competitivo no mercado durante o período. Esse aumento está diretamente relacionado ao **aquecimento do mercado imobiliário**, que impulsionou a demanda por crédito e, consequentemente, a emissão de LCIs.  
         - Outro fator de grande influência é a **isenção de imposto de renda para pessoas físicas**, característica desse tipo de investimento. Essa vantagem fiscal torna o retorno líquido do LCI ainda mais atrativo em comparação a outros produtos financeiros, especialmente em cenários de taxas de juros elevadas.  
